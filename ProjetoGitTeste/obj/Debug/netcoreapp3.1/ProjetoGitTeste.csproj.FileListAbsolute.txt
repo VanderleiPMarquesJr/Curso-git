@@ -8,3 +8,4 @@ C:\Users\Vanderlei\Desktop\ProjetoGitTeste\ProjetoGitTeste\obj\Debug\netcoreapp3
 C:\Users\Vanderlei\Desktop\ProjetoGitTeste\ProjetoGitTeste\obj\Debug\netcoreapp3.1\ProjetoGitTeste.AssemblyInfo.cs
 C:\Users\Vanderlei\Desktop\ProjetoGitTeste\ProjetoGitTeste\obj\Debug\netcoreapp3.1\ProjetoGitTeste.dll
 C:\Users\Vanderlei\Desktop\ProjetoGitTeste\ProjetoGitTeste\obj\Debug\netcoreapp3.1\ProjetoGitTeste.pdb
+C:\Users\Vanderlei\Desktop\ProjetoGitTeste\ProjetoGitTeste\obj\Debug\netcoreapp3.1\ProjetoGitTeste.csprojAssemblyReference.cache
